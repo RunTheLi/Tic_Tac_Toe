@@ -20,6 +20,8 @@ Write functions to update the board on the page and handle player interactions (
 UI Enhancements: Allow players to enter names, restart the game, and display game results.
 --------------------------------------------------------------------------------------------------------------
 
+U can use code from Objects and Object Constructors and Factory Functions and the Module Pattern chapters as an example !!
+
 ![Tic Tac Toe](https://github.com/user-attachments/assets/f3de36cb-a37b-496d-aea6-1e533508738d)
 
 Source: https://www.theodinproject.com/lessons/javascript-tic-tac-toe
