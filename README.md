@@ -5,10 +5,10 @@ Assignment summarize :
 Setup Project: Create HTML, CSS, and JavaScript files. Initialize a Git repo.
 --------------------------------------------------------------------------------------------------------------
 Structure Code:
--Store the gameboard as an array inside a Gameboard object.
--Create Player objects to represent players.
--Use a Game object to manage game flow.
--Minimize Global Code: Use factories and IIFEs (modules) to encapsulate functionality.
+Store the gameboard as an array inside a Gameboard object.
+Create Player objects to represent players.
+Use a Game object to manage game flow.
+Minimize Global Code: Use factories and IIFEs (modules) to encapsulate functionality.
 
 Plan Logic: Place logic (e.g., win checks, turn management) in appropriate objects (Game, Player, Gameboard).
 
